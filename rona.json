@@ -6,25 +6,34 @@
 	"cover": "https://i.imgur.com/qMcPK95.png",
 	"chapters": {
 		"47": {
-		"title": "47",
 		"groups": {
 			"SilasMeanQuite": "/proxy/api/imgbox/chapter/7I8xXrXhNM/"
 		},
 		"last_updated": "1752609600"
 		},
 		"46": {
-			"title": "46",
 			"groups": {
 				"SilasMeanQuite": "/proxy/api/imgur/chapter/bwXKW0G/"
 			},
 		"last_updated": "1752154620"
 		},
 		"45": {
-			"title": "45",
 			"groups": {
 				"SilasMeanQuite": "/proxy/api/imgur/chapter/5B2XkWa/"
 			},
 		"last_updated": "1752053460"
-		}
+		},
+		"44": {
+			"groups": {
+				"SilasMeanQuite": "/proxy/api/imgur/chapter/pDGTUtK/"
+			},
+		"last_updated": "1750979820"
+		},
+		"43": {
+			"groups": {
+				"SilasMeanQuite": "/proxy/api/imgur/chapter/4LCS3b1/"
+			},
+		"last_updated": "1750807020"
+		}		
 	}
 }
