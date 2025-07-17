@@ -5,7 +5,7 @@
 	"author": "<manga author>",
 	"cover": "Mochimaru Sakaki",
 	"chapters": {
-		"<chapter number>": {
+		"1": {
 		"title": "47",
 		"groups": {
 			"<group name>": "/proxy/api/imgbox/chapter/7I8xXrXhNM/"
