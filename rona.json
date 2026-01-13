@@ -5,6 +5,13 @@
 	"author": "Mochimaru Sakaki",
 	"cover": "https://i.imgur.com/qMcPK95.png",
 	"chapters": {
+		"50": {
+			"groups": {
+				"SilasMeanQuite": "/proxy/api/imgbox/chapter/CV4KPN6exe/"
+			},
+			"last_updated": "1768274520",
+			"title": "I Tried Exploring the Curse House"
+		},
 		"49": {
 			"groups": {
 				"SilasMeanQuite": "/proxy/api/imgbox/chapter/b42ueTmmcl/"
