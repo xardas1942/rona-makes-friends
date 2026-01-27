@@ -5,11 +5,18 @@
 	"author": "Mochimaru Sakaki",
 	"cover": "https://i.imgur.com/qMcPK95.png",
 	"chapters": {
+		"53": {
+			"groups": {
+				"SilasMeanQuite": "/proxy/api/imgbox/chapter/YBEBr37fXw/"
+			},
+			"last_updated": "1769426160",
+			"title": "I Tried Clearing The Dungeon"
+		},
 		"52": {
 			"groups": {
 				"SilasMeanQuite": "/proxy/api/imgbox/chapter/khe1Ok9u99/"
 			},
-			"last_updated": "1769546820"
+			"last_updated": "1769031000"
 		},
 		"51": {
 			"groups": {
