@@ -5,12 +5,18 @@
 	"author": "Mochimaru Sakaki",
 	"cover": "https://i.imgur.com/qMcPK95.png",
 	"chapters": {
+		"62": {
+			"groups": {
+				"SilasMeanQuite": "/proxy/api/imgbox/chapter/ZYAlVoTPw1/"
+			},
+			"last_updated": "1776332640"
+		},
 		"61": {
 			"groups": {
 				"SilasMeanQuite": "/proxy/api/imgbox/chapter/zQK697MaXa/"
 			},
 			"last_updated": "1770679140",
-			"titl": "I Tried Participating In A Limited-time Event"
+			"title": "I Tried Participating In A Limited-time Event"
 		},
 		"60": {
 			"groups": {
