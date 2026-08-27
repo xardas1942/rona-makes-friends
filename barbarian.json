@@ -4,14 +4,16 @@
 	"artist": "Satoshi Yoshiaki",
 	"author": "Satoshi Yoshiaki",
 	"cover": "https://i.imgur.com/csghsHT.jpeg",
-	"chapters": {
-		"155": {
-			"groups": {
-				"Asura Scans": ["https://cdn.imgchest.com/files/1e993f6aa222.webp"]
-			},
-			"last_updated": "1782229140",
-			"title": "New Age"
-		}
-		}
+    "chapters": {
+        "155": {
+            "groups": {
+                "AsuraScans": [
+                    "https://cdn.imgchest.com/files/1e993f6aa222.webp",
+                    "https://cdn.imgchest.com/files/5dfde56d3063.webp"
+                ]
+            },
+            "last_updated": 1598476968,
+            "title": "Chapter 155 - New Age"
+        }
 }
 
