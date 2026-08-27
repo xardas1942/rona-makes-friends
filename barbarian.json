@@ -1,0 +1,17 @@
+{
+	"title": "test",
+	"description": "test",
+	"artist": "Satoshi Yoshiaki",
+	"author": "Satoshi Yoshiaki",
+	"cover": "https://i.imgur.com/csghsHT.jpeg",
+	"chapters": {
+		"155": {
+			"groups": {
+				"Asura Scans": ["https://cdn.imgchest.com/files/1e993f6aa222.webp"]
+			},
+			"last_updated": "1782229140",
+			"title": "New Age"
+		}
+		}
+	}
+}
