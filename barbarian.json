@@ -1,47 +1,69 @@
 {
-	"title": "Surviving the Game as a Barbarian",
-	"description": "After spending nine years on Dungeon and Stone, the role-playing game that no player has ever beaten, Han-Su Lee finally reaches the dungeon of the final boss. As soon as he opens the gate, however, he suddenly sees a message that says his tutorial has been completed and finds himself in the body of Bjorn Yandel, a real barbarian within the game. An exciting adventure awaits him as he endeavors to abide by the laws of the fictional world! ",
-	"artist": "Satoshi Yoshiaki",
-	"author": "Satoshi Yoshiaki",
-	"cover": "https://cdn.imgchest.com/files/6a6371c2affd.jpg",
+        "title": "Surviving the Game as a Barbarian",
+        "description": "After spending nine years on Dungeon and Stone, the role-playing game that no player has ever beaten, Han-Su Lee finally reaches the dungeon of the final boss. As soon as he opens the gate, however, he suddenly sees a message that says his tutorial has been completed and finds himself in the body of Bjorn Yandel, a real barbarian within the game. An exciting adventure awaits him as he endeavors to abide by the laws of the fictional world! ",
+        "artist": "Satoshi Yoshiaki",
+        "author": "Satoshi Yoshiaki",
+        "cover": "https://cdn.imgchest.com/files/6a6371c2affd.jpg",
     "chapters": {
-	"156": {
-	     "groups": {
-		"AsuraScans": [
-			"https://cdn.imgchest.com/files/6b52ad12d4c9.webp",
-			"https://cdn.imgchest.com/files/e471a6f7258a.webp"
-		]
+        "156": {
+             "groups": {
+                "AsuraScans": [
+                        "https://cdn.imgchest.com/files/6b52ad12d4c9.webp",
+                        "https://cdn.imgchest.com/files/e471a6f7258a.webp",
+			"https://cdn.imgchest.com/files/8105358be9b8.webp",
+                        "https://cdn.imgchest.com/files/d14b5a8c8aed.webp",
+                        "https://cdn.imgchest.com/files/82a08b5215b1.webp",
+                        "https://cdn.imgchest.com/files/813c03021dc9.webp",
+                        "https://cdn.imgchest.com/files/19ffe8a0ae09.webp",
+                        "https://cdn.imgchest.com/files/3c720d32e2ce.webp",
+                        "https://cdn.imgchest.com/files/b401e4ac92dd.webp",
+                        "https://cdn.imgchest.com/files/7ad03edc945f.webp",
+                        "https://cdn.imgchest.com/files/85a19f48a7da.webp",
+                        "https://cdn.imgchest.com/files/16216835f5bf.webp",
+                        "https://cdn.imgchest.com/files/f6adc2e62e2f.webp",
+                        "https://cdn.imgchest.com/files/d4d1aeee5e10.webp",
+                        "https://cdn.imgchest.com/files/4162820aff45.webp",
+                        "https://cdn.imgchest.com/files/6af54a845e83.webp",
+                        "https://cdn.imgchest.com/files/24417920f944.webp",
+                        "https://cdn.imgchest.com/files/2c76fca07688.webp",
+                        "https://cdn.imgchest.com/files/837173db2866.webp",
+                        "https://cdn.imgchest.com/files/edc8544aaf61.webp",
+                        "https://cdn.imgchest.com/files/bb5c0158438e.webp",
+                        "https://cdn.imgchest.com/files/e58e2aa1ee93.webp",
+                        "https://cdn.imgchest.com/files/2014b4131b52.webp"
+
+                ]
               },
               "last_updated": 1787828220,
               "title": "Chapter 155 - Bloodlust"
-	},
+        },
         "155": {
             "groups": {
                 "AsuraScans": [
                     "https://cdn.imgchest.com/files/1e993f6aa222.webp",
                     "https://cdn.imgchest.com/files/5dfde56d3063.webp",
-					"https://cdn.imgchest.com/files/53503f9f8bc1.webp",
-					"https://cdn.imgchest.com/files/b6e3e64e0da0.webp",
-					"https://cdn.imgchest.com/files/35525839edca.webp",
-					"https://cdn.imgchest.com/files/5a2f41a7223b.webp",
-					"https://cdn.imgchest.com/files/131f83787e9a.webp",
-					"https://cdn.imgchest.com/files/4d102bd7d182.webp",
-					"https://cdn.imgchest.com/files/eca2f8c19ee7.webp",
-					"https://cdn.imgchest.com/files/ce3007884d2c.webp",
-					"https://cdn.imgchest.com/files/ec19f4b4cb0d.webp",
-					"https://cdn.imgchest.com/files/ccfd53ca4b01.webp",
-					"https://cdn.imgchest.com/files/6896b9f0f895.webp",
-					"https://cdn.imgchest.com/files/477634ab45f3.webp",
-					"https://cdn.imgchest.com/files/6401e48a6ce3.webp",
-					"https://cdn.imgchest.com/files/44b90c471d4c.webp",
-					"https://cdn.imgchest.com/files/6211e3fec126.webp",
-					"https://cdn.imgchest.com/files/ddb2fea82219.webp",
-					"https://cdn.imgchest.com/files/b98497e2714a.webp",
-					"https://cdn.imgchest.com/files/aa41e40d2031.webp",
-					"https://cdn.imgchest.com/files/be04117c3951.webp",
-					"https://cdn.imgchest.com/files/084784d9d83c.webp",
-					"https://cdn.imgchest.com/files/596ef2dfe1d6.webp",
-					"https://cdn.imgchest.com/files/1afa2c7e37ef.webp"
+                                        "https://cdn.imgchest.com/files/53503f9f8bc1.webp",
+                                        "https://cdn.imgchest.com/files/b6e3e64e0da0.webp",
+                                        "https://cdn.imgchest.com/files/35525839edca.webp",
+                                        "https://cdn.imgchest.com/files/5a2f41a7223b.webp",
+                                        "https://cdn.imgchest.com/files/131f83787e9a.webp",
+                                        "https://cdn.imgchest.com/files/4d102bd7d182.webp",
+                                        "https://cdn.imgchest.com/files/eca2f8c19ee7.webp",
+                                        "https://cdn.imgchest.com/files/ce3007884d2c.webp",
+                                        "https://cdn.imgchest.com/files/ec19f4b4cb0d.webp",
+                                        "https://cdn.imgchest.com/files/ccfd53ca4b01.webp",
+                                        "https://cdn.imgchest.com/files/6896b9f0f895.webp",
+                                        "https://cdn.imgchest.com/files/477634ab45f3.webp",
+                                        "https://cdn.imgchest.com/files/6401e48a6ce3.webp",
+                                        "https://cdn.imgchest.com/files/44b90c471d4c.webp",
+                                        "https://cdn.imgchest.com/files/6211e3fec126.webp",
+                                        "https://cdn.imgchest.com/files/ddb2fea82219.webp",
+                                        "https://cdn.imgchest.com/files/b98497e2714a.webp",
+                                        "https://cdn.imgchest.com/files/aa41e40d2031.webp",
+                                        "https://cdn.imgchest.com/files/be04117c3951.webp",
+                                        "https://cdn.imgchest.com/files/084784d9d83c.webp",
+                                        "https://cdn.imgchest.com/files/596ef2dfe1d6.webp",
+                                        "https://cdn.imgchest.com/files/1afa2c7e37ef.webp"
                 ]
             },
             "last_updated": 1787826300,
